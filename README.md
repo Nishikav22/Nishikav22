@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nishika</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **html, css,**
+- 🌱 I’m currently learning **html, css,java,**
 
 - 💬 Ask me about **c, python**
 
